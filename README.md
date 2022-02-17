@@ -1,1 +1,1 @@
-# easy-merge
+# simply-merge
